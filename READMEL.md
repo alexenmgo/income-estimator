@@ -2,8 +2,7 @@
 ### Client Financial Profiling with Credit Score Data — TransUnion
 
 > **Role:** Data & Compliance Specialist · CCI Puesto de Bolsa  
-> **Tools:** Python · AI/ML · TransUnion API · BigQuery · Google Apps Script
-
+> **Tools:** Python · AI/ML · TransUnion API · BigQuery · Google Apps Script  AWS
 ---
 
 ## 📌 Overview
